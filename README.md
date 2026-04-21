@@ -1,4 +1,4 @@
-# Data Engineering Learning Journey 🚀
+# Data Engineering Learning Journey
 
 This repository reflects my learning process throughout the semester while working with modern data pipelines, AWS tools, and basic search engine concepts.
 
@@ -6,7 +6,7 @@ Instead of only documenting what I did, this focuses on what I understood and le
 
 ---
 
-## 🧱 Modern Data Pipeline Architectures
+## Modern Data Pipeline Architectures
 
 ### What I Learned
 
@@ -35,7 +35,7 @@ This gave me a clearer idea of how real-world systems like Netflix or Uber proce
 
 ---
 
-## 🔍 Lab 1.1 – AWS Athena
+## Lab 1.1 – AWS Athena
 
 ### What I Learned
 
@@ -65,7 +65,7 @@ So optimization matters a lot.
 
 ---
 
-## 🔄 Lab 1.2 – AWS Glue (ETL)
+## Lab 1.2 – AWS Glue (ETL)
 
 ### What I Learned
 
@@ -92,7 +92,7 @@ I also learned that:
 
 ---
 
-## 🌐 Lab 2.1 – Mini Web Search Engine
+## Lab 2.1 – Mini Web Search Engine
 
 ### What I Learned
 
@@ -122,7 +122,7 @@ Even with a basic implementation, I could see that:
 
 ---
 
-## 💡 Overall Reflection
+## Overall Reflection
 
 Throughout this semester, I moved from understanding concepts in theory to actually applying them using real tools.
 
